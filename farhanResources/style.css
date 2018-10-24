@@ -1,0 +1,39 @@
+#container
+{
+	background-color:#E6E6FA;
+	height:100%;
+	width:100%;
+	/*border:1px solid red;*/	
+}
+#left-side
+{
+	/*background-color:f3e5e3;*/
+	height:200px;
+	width:100%;
+	/*border:1px solid green;*/
+}
+/* #image-box
+{
+	height:200px;
+	width:20%;
+	border:1px solid red;
+}
+ */
+#mid-container
+{
+	/*background-color:f3e5e3;/*
+	/*background-color:e2b6ad;
+	background-image:url("");*/
+	height:68%;
+	width:100%;
+	/*border:1px solid blue;*/
+	
+}
+#footer
+{
+	/*background-color:f3e5e3;*/
+	/*background-color:644f4b;*/ 
+	height:8.5%;
+	width:100%;
+	/*border:1px solid black;*/
+}
